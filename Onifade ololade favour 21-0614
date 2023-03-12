@@ -1,1 +1,10 @@
 
+def addition(z,y):
+    print(" Addition : ", z+y)
+    print(" multiplication : ", z*y)
+    print(" Subtraction :  ", z-y)
+    print(" Division : ", z/y)
+    print(" modulo : ", z%y)
+x=int(input(" Enter first digit :  ")) 
+y=int(input(" Enter second digit : "))
+addition(z,y)
