@@ -1,5 +1,5 @@
-number1 = int(input())
-number2 = int(input())
+number1 = int(input("Enter the first number"))
+number2 = int(input("Enter the second number"))
 
 def operation(x, y):
   print(x + y)
