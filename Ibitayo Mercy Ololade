@@ -1,0 +1,11 @@
+number1 = int(input())
+number2 = int(input())
+
+def operation(x, y):
+  print(x + y)
+  print(x - y)
+  print(x * y)
+  print(x % y)
+  print(x / y)
+
+operation (number1 , number2
