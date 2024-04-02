@@ -1,9 +1,0 @@
-def addition(x,y):
-    print("the sum is ", x+y)
-    print("the multiple is ", x*y)
-    print("the subtract is ", x-y)
-    print("the division is ", x/y)
-    print("the mod is ", x%y)
-x=int(input("Enter first number ")) 
-y=int(input("Enter second number "))
-addition(x,y)
